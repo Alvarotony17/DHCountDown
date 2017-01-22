@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DH Count Down</string>
+    <string name="countdown"> </string>
+    <string name="countdownleft">Days Left</string>
+</resources>
